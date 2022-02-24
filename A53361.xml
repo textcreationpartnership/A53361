@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between Doctor Titus, and Bedlows ghost Concerning the bayling the lords out of the Tower.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53361</idno>
+            <idno type="STC">Wing O32</idno>
+            <idno type="STC">ESTC R216550</idno>
+            <idno type="EEBO-CITATION">99828277</idno>
+            <idno type="PROQUEST">99828277</idno>
+            <idno type="VID">32704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32704)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1856:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between Doctor Titus, and Bedlows ghost Concerning the bayling the lords out of the Tower.</title>
+                  <author>Oates, Titus, 1649-1705, attributed name.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing erroneously attributes this to Titus Oates.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Bedloe, William, 1650-1680.</term>
+               <term>Popish Plot, 1678 --  Humor --  Early works to 1800.</term>
+               <term>Imaginary conversations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:32704:1"/>
+            <pb facs="tcp:32704:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN DOCTOR TITUS, AND BEDLOWS GHOST.</head>
+            <head type="sub">Concerning the Bayling the LORDS out of the <hi>TOWER.</hi>
+            </head>
+            <sp>
+               <speaker>Gh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt.</speaker>
+               <p>TITUS.</p>
+            </sp>
+            <sp>
+               <speaker>Titus.</speaker>
+               <p>s'Death! Who calls?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Titus!</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>Booger Le Diable!</p>
+            </sp>
+            <sp>
+               <speaker>Gho.</speaker>
+               <p>Titus!</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>Be Damn'd.</p>
+            </sp>
+            <sp>
+               <speaker>Gho.</speaker>
+               <p>You muſt be Hang'd Firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>Be Burnt at the Dog Firſt. I wou'd Cut my Throat with <hi>E—x,</hi> or <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve in a Garret with Sr. <hi>Patience,</hi> rather then out of pure Guilt of Con<g ref="char:EOLhyphen"/>fence for my, Villanous Lying; Sneak out of the World as you did, with a <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to you.</p>
+            </sp>
+            <sp>
+               <speaker>Gho.</speaker>
+               <p>With a Rope to you; for a Lye will never Choak thee, otherwiſe thou <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'ſt got the Start of me; and the Devil thy Father had given thee the Prehe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ence before me.</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>Well, I have a Thouſand Subſtantial Common-Wealth, Cits, will <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd by me ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>Gho.</speaker>
+               <p>And does thou hope they will be all <hi>Parliament Men?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>Yes, By your Favour, (Brother <hi>Inſolence</hi>) for a <hi>Parliament,</hi> and for a <hi>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>er</hi> too.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </speaker>
+               <p>Yes, I'le warrant you, and for a New Popiſh Plot, and a Popiſh Exclu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Bill, like Prince <hi>Rupert's</hi> Monkey; they Cut themſelves off by Fooliſhly <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ping into the Piece they have too wantonly Fir'd, and blow themſelves up <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> own Train. But pray you does your Monkyſhip think there are no <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>al People in the City?</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>Loyal! What doſt tell me of Loyalty? I keep no ſuch Company, nei<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> do I deſire their Acquaintance. What did ever I get from a Loyal Man, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a baſe Affront, or a broken Pate, or a ſcalding Diſh in my Face.</p>
+               <p>But if ever I live to ſee a <hi>Parliament.</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Gho.</speaker>
+               <p>Thou haſt nothing in thy Head but a <hi>Parliament,</hi> it has no being any <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> elſe, and yet thou haſt it at thy Tongues end, like a Scotch Green Gooſe, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Parrot, that can ſay nothing but Tut <hi>Titus,</hi> and Walk Knave Walk. To <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thee out of this Language, prethee tell me, what doſt thou think of the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uling of the Lords, and what does the World think of thee and thy ſham'd <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s?</p>
+            </sp>
+            <sp>
+               <speaker>Tit.</speaker>
+               <p>I'le ſay no more, but if ever a <hi>Parliament</hi> Sit in <hi>England.</hi>—</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:32704:2"/>
+               <speaker>Ghoſt.</speaker>
+               <p>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y wo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſtill bear it with Patience, as you ſee they have done ſeve<g ref="char:EOLhyphen"/>ral Years together, wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſt ſome of thy Fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on are ſo Impatent of Reſtrai<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> that they had rather Cut their Throats, then ſuffer a Months Impriſonment.</p>
+            </sp>
+            <sp>
+               <speaker>Titus.</speaker>
+               <p>Hum! Verily, and in <hi>Verba Sacerdotis,</hi> I ſee Popery and Idolat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y bre <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng in upon us, like a <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ghty Current, it cometh like a Land Flood a<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> a great <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that drives all before it, and will break us to peices like Earthen <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s one ag<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> another. The Pilgrims are coming in, in whole Armies; Ver<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Brother, had the Froſt held but one Week longer, they had been all here <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t already.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </speaker>
+               <p>Yes, with <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ern<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt<gap reason="illegible" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap>s</hi> black Bills, and blank Commiſſions. But <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t think will become of thee, when this Invincible Army ſhall Land upon <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Downs? They'd har<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly pamper the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up with Six Diſhes a Day, and as ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Bottles of freſh Burgundy.</p>
+            </sp>
+            <sp>
+               <speaker>Titus.</speaker>
+               <p>Six Laſhes and as many Halters. But while I can ſcape 'em, were't not better <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at Home amongſt my Friends, then ſtarve abroad amongſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Enemies?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Abroad? Where can'd thou hide thy ſelf abroad, from the loud Cry of <hi>Innocent Bl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ud? Gen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>va</hi> will not receive theee.</p>
+               <p>The Church which thou haſt Renounc'd will be no Sanctuary; thou w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e drag'd out of the Pulpit where thou haſt Blaſphem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and torn from the A<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> wh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h thou haſt profain'd.</p>
+               <p>I know no Refuge thou haſt left thee now but to <hi>Don John,</hi> or the <hi>M<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> A<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>;</hi> one cannot chooſe but entertain thee, for thy Intrecate Acquaintence w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th him formerly, and the others for <hi>Parſon Elliot's</hi> Sake.</p>
+            </sp>
+            <sp>
+               <speaker>Titus.</speaker>
+               <p>I will go to neither, I will follow my Friend <hi>Patience,</hi> and Coop my<g ref="char:EOLunhyphen"/>ſelf up in a Cock-Loft in <hi>Southwark.</hi>
+               </p>
+               <p>There I will ſet up an Evidence School, to Inſtruct all People Old and Yo<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> for Twelve Pence a Week in all manner of <hi>Villany,</hi> the moſt Compendious <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Bugger, Plunder, Forge, Cheat, Swear, and Lye too, and again, backward and forward upon all ſides, and all Occaſions with they ſelf, <hi>Prance</hi> or any o<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Evidence Maſter in <hi>Europe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Now I am gone, how long will that Trade hold before thou <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t hang'd.</p>
+            </sp>
+            <sp>
+               <speaker>Titus.</speaker>
+               <p>Then<g ref="char:punc">▪</g> 
+                  <hi>Actum eſt Caron perijſti Titus,</hi> and there's an End.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>No, thou ſhalt not have ſo Favourable a paſſage, tho the Devil himſel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wait to waſt the over.</p>
+               <p>Thou art deſtin'd for a worſe Sentance, which I am ſent as thy Judg to pro<g ref="char:EOLhyphen"/>nounce before thee ere thou have the Honour to be hang'd. <hi>Tubman</hi> ſhall Ri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thee to Death, <hi>Bowman</hi> ſhall burn thee, and <hi>Reading</hi> ſhall Sing the into the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>quiem of the Wretched. The Women ſhall Stone thee for thy abuſe of the S<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap> The Rabble who proclaim'd thee a Saviour of the Nation ſhall tear thee in p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eces for an Impoſture. Thy Quarters ſhall Adorn the City Gates, and thy b<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e exalted on the ſame Pinacle, ſhall make <hi>Nolls</hi> Copper Noſe bluſh to ſee him<g ref="char:EOLhyphen"/>ſelf outdone by thy Matchleſs Impudence.</p>
+               <p>When this is done, I ſhall be one of thy Inſernal Guard, to receive thee in our Dominions, and prepare thee a Place with thy Brother <hi>Turn-Caſſoc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> H<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> Peters.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. S.</hi> 1684.</p>
+            <pb facs="tcp:32704:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
